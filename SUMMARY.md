@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Welcome!](README.md)
+* [👋 Welcome!](README.md)
 
-## The Company
+## 🔥 DDIA
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [1. 신뢰성, 확장성, 유지보수성을 높이자](ddia/1..md)
+* [Meet the Team!](ddia/meet-the-team.md)
 
 ## The Formal Stuff
 

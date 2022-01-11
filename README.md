@@ -1,8 +1,9 @@
 ---
 coverY: 0
+description: 제 블로그를 방문해주셔서 감사합니다.
 ---
 
-# Welcome!
+# 👋 Welcome!
 
 ## Welcome aboard!
 
