@@ -16,4 +16,4 @@
 * [DDIA](books/ddia/README.md)
   * [1. 신뢰성, 확장성, 유지보수성을 높이자](books/ddia/1..md)
   * [2. 데이터 모델과 질의 언어](books/ddia/2..md)
-  * [3장. 저장소와 검색](books/ddia/3-..md)
+  * [3. 저장소와 검색](books/ddia/3..md)
