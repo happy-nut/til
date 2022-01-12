@@ -16,3 +16,4 @@
   * [5. 복제](books/ddia/5..md)
   * [6. 파티셔닝](books/ddia/6..md)
   * [7. 트랜잭션](books/ddia/7..md)
+  * [8. 분산 시스템의 골칫거리](books/ddia/8..md)
