@@ -15,3 +15,4 @@
   * [4. 부호화와 발전](books/ddia/4..md)
   * [5. 복제](books/ddia/5..md)
   * [6. 파티셔닝](books/ddia/6..md)
+  * [7. 트랜잭션](books/ddia/7..md)
