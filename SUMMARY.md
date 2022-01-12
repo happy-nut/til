@@ -11,3 +11,7 @@
 
 * [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
 * [Filing Expenses](the-formal-stuff/filing-expenses.md)
+
+## 🛠 Trouble Shooting
+
+* [Read-and-insert API 중복 요청 방어하기](trouble-shooting/read-and-insert-api.md)
