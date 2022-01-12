@@ -14,3 +14,4 @@
   * [3. 저장소와 검색](books/ddia/3..md)
   * [4. 부호화와 발전](books/ddia/4..md)
   * [5. 복제](books/ddia/5..md)
+  * [6. 파티셔닝](books/ddia/6..md)
