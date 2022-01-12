@@ -22,27 +22,19 @@ TDD, DDD, MSA, DDIA, 대용량 트래픽 처리 및 코드 품질에 관심이 �
 
 [![Viva Republica (Toss)](https://media-exp1.licdn.com/dms/image/C560BAQGuGPu5c4Rmmw/company-logo\_100\_100/0/1605766502615?e=1649894400\&v=beta\&t=WjiNQ78lbvJmPhAbvxq-HN58SLE8HoJVmaYD369LjJo)](https://www.linkedin.com/company/viva-republica/)**Viva Republica**
 
+*   #### Server Developer
 
-
-
-
-
+    **2021년 5월 \~ 현재**&#x20;
 
 [![스켈터랩스](https://media-exp1.licdn.com/dms/image/C560BAQG-6apSchEAEA/company-logo\_100\_100/0/1628764534003?e=1649894400\&v=beta\&t=T\_4N-wSqzVDWjtd8lyM6ac3LBM96TISOHDdgrkvBf1Q)](https://www.linkedin.com/company/skelter-labs/)**Skelter Labs**
 
 *   #### Software Engineer
 
-    **2018년 12월 \~ 2021년 5월 (2년**&#x20;
-
-    **6새ㅜ근무 기간(2년 6개월)**
-
-    **지역seoul**
+    **2018년 12월 \~ 2021년 5월 (2년 6개월)**
 
 
 *   #### Software Engineering Intern
 
-    **2017년 12월 \~ 2018년 12월**
-
-    **근무 기간(1년 1개월)**
+    **2017년 12월 \~ 2018년 12월 (1년 1개월)**
 
     Language: Kotlin, Java, Python, Javascript
