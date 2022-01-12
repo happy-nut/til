@@ -31,3 +31,7 @@ description: 데이터 중심 애플리케이션 설계
 {% content-ref url="7..md" %}
 [7..md](7..md)
 {% endcontent-ref %}
+
+{% content-ref url="8..md" %}
+[8..md](8..md)
+{% endcontent-ref %}
