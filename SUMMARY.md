@@ -5,6 +5,7 @@
 ## 🛠 Trouble Shooting
 
 * [Read-and-insert API 중복 요청 방어하기](trouble-shooting/read-and-insert-api.md)
+* [Spring 에서 Data source routing 하기](trouble-shooting/spring-data-source-routing.md)
 
 ## 📚 Books
 
