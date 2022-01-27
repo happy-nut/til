@@ -103,13 +103,13 @@ class RoutingDataSourceInterceptor {
     fun routingDataSource(
         joinPoint: ProceedingJoinPoint,
         routingDataSource: RoutingDataSource
-    ): Any {
+    ): Any? {
         return runCatching {
             DataSourceContext.route.set(routingDataSource.value)
             joinPoint.proceed()
         }.also {
             DataSourceContext.route.remove()
-        }
+        }.getOrNull()
     }
 }
 ```
@@ -170,4 +170,4 @@ http-nio-8080-exec-2 routed to RO3
 @EnableTransactionManagement(order = Ordered.HIGHEST_PRECEDENCE)
 ```
 
-문제 없이 잘 실행된다.&#x20;
+문제 없이 잘 실행된다.
