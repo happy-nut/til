@@ -27,16 +27,16 @@ TDD, DDD, MSA, DDIA, 대용량 트래픽 처리 및 코드 품질에 관심이 �
 | <p><a href="https://www.linkedin.com/company/viva-republica/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQGuGPu5c4Rmmw/company-logo_100_100/0/1605766502615?e=1649894400&#x26;v=beta&#x26;t=WjiNQ78lbvJmPhAbvxq-HN58SLE8HoJVmaYD369LjJo" alt="Viva Republica (Toss)"></a><br><strong>Viva Republica</strong></p> | <h4>Server Developer</h4><p><strong>2021년 5월 ~ 현재</strong> <br><strong></strong>Language: Kotlin</p>                                                                                                                                                                                                                           |
 |           <p><a href="https://www.linkedin.com/company/skelter-labs/"><img src="https://media-exp1.licdn.com/dms/image/C560BAQG-6apSchEAEA/company-logo_100_100/0/1628764534003?e=1649894400&#x26;v=beta&#x26;t=T_4N-wSqzVDWjtd8lyM6ac3LBM96TISOHDdgrkvBf1Q" alt="스켈터랩스"></a><br><strong>Skelter Labs</strong></p>           | <p></p><p><strong>Software Engineer</strong></p><p><strong>2018년 12월 ~ 2021년 5월 (2년 6개월)</strong><br><strong></strong>Language: Typescript, Kotlin</p><p></p><p><strong>Software Engineering Intern</strong></p><p><strong>2017년 12월 ~ 2018년 12월 (1년 1개월)</strong></p><p>Language: Kotlin, Java, Python, Javascript, Swift</p> |
 
-## 함께 일하고 싶은 개발자가 되기 위해 다음 원칙들을 지킵니다.
+## 팀에서 함께 일하기 위해
 
 * 조직에 무언가를 건의할때 이기적(self serving)이지 않아야 한다.
-* 팀 커뮤니케이션에서는 I 보단 We 를 쓴다.
-* 개인보다 팀이 먼저 잘되는 걸 우선시 한다.
-* 조직 차원에서 임펙트가 큰데, 메인터넌스(토들링이 필요한)는 적은 사람이 된다.
-* 이유 불문 No Blame 한다.
-* 잘못이 모호해도 책임을 본인이 끌어안는다.
-* 조직에 불안감을 해소시키는 사람이 된다.
-* No 거짓말 No 핑계: "이 사람이 하는 말은 믿어도 된다" 라는 상태를 유지한다.
-* 나보다 높은 추상화 레이어에 있는 사람의 우선순위와 상황을 파악/이해하고 이를 토대로 일을 선제적으로 파악/진행한다.
+* 팀 커뮤니케이션에서는 I 보단 We 를 쓰자.
+* 개인보다 팀이 먼저 잘되는 걸 우선시 하자.
+* 조직 차원에서 임펙트가 큰데, 메인터넌스(토들링이 필요한)는 적은 사람이 되자.
+* 이유 불문 No Blame 하자.
+* 잘못이 모호해도 책임을 본인이 끌어안자.
+* 조직에 불안감을 해소시키는 사람이 되자.
+* No 거짓말 No 핑계: "이 사람이 하는 말은 믿어도 된다" 라는 상태를 유지하자.
+* 나보다 높은 추상화 레이어에 있는 사람의 우선순위와 상황을 파악/해하고 이를 토대로 일을 선제적으로 파악/진행하자.
 
 ## &#x20;
