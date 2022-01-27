@@ -5,9 +5,11 @@ description: 제 블로그를 방문해주셔서 감사합니다.
 
 # 👋 Welcome!
 
-## About
+##
 
 ![](.gitbook/assets/송형선.png)
+
+## About
 
 TDD, DDD, MSA, DDIA, 대용량 트래픽 처리 및 코드 품질에 관심이 많습니다.
 
